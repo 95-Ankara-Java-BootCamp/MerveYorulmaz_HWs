@@ -1,5 +1,11 @@
-```1. Fibonacci Series with Java```
-```2. Letter Grade Calculation```
-```3. Manav Kasa Programı ```
+### Kodluyoruz HW List
+
+```Week1```
+1. Fibonacci Series with Java
+2. Letter Grade Calculation
+3. Manav Kasa Programı
+
+```Week2```
+``` ```
 
 
