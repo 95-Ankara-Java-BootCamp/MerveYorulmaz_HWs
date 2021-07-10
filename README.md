@@ -7,6 +7,7 @@
 
 ```Week2```
 1. Semester Grade
+2. Cinema Ticket
 
 
 ```Week3 ```
