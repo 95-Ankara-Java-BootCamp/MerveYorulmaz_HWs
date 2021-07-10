@@ -6,6 +6,9 @@
 3. Manav Kasa Programı
 
 ```Week2```
-``` ```
+1. Semester Grade
+
+
+```Week3 ```
 
 
