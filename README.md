@@ -8,7 +8,7 @@
 ```Week2```
 1. Semester Grade
 2. Cinema Ticket
-3. StationeryShopping (use Hash Map)
+3. Stationery Shopping (use Hash Map)
 
 
 ```Week3 ```
