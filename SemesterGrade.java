@@ -55,7 +55,7 @@ public class Main {
             if(semesterNote>70){ letterGrade ="AA"; }
             else if(semesterNote>50 && semesterNote<71){ letterGrade ="BB";}
             else if(semesterNote>20 && semesterNote<51){ letterGrade ="CB"; }
-            else{ letterGrade ="CB"; }
+            else{ letterGrade ="FF"; }
 
         return letterGrade;
     }
