@@ -17,8 +17,7 @@ public class Main {
 
         String nameProduct;
         int numProduct;
-        int exitNum=1;
-        boolean value = true; // loop out control
+        int exitNum=1; // loop out control
 
         //enter product loop
         while (exitNum==1){
