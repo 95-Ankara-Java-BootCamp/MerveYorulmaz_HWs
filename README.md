@@ -11,7 +11,7 @@
 
 ```                                Graduation Project                               ```
 
-### Event Tictket Sales System 
+### Event Tictket Sales System :ticket::ticket::ticket::ticket::ticket::ticket::ticket::ticket::ticket::ticket::ticket::ticket::ticket::ticket::ticket::ticket::ticket:
 
 Etkinlik bazında bilet satın alımını gerçekleştiren bir yazılımdır. 
 
