@@ -17,6 +17,8 @@ Etkinlik bazında bilet satın alımını gerçekleştiren bir yazılımdır.
 
 ![ticket print2](https://user-images.githubusercontent.com/23612249/128597209-b6c5c469-5996-4dde-84fa-8e68d91fdfe0.JPG)
 ![ticket print](https://user-images.githubusercontent.com/23612249/128597240-cf19562e-0f02-4efc-bb41-957f99ec2ad2.JPG)
+![dd](https://user-images.githubusercontent.com/23612249/128597273-d741450b-2531-4dba-88e8-d44fa5244dfe.JPG)
+
 
 
 
